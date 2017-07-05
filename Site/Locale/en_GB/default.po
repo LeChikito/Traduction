@@ -1,0 +1,134 @@
+# LANGUAGE translation of Mineaurion
+# Copyright 2017 Mineaurion <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-07-03 13:33+0200\n"
+"PO-Revision-Date: 2017-07-03 16:12+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.0.2\n"
+"Last-Translator: \n"
+"Language: en_GB\n"
+
+#: Template/Cell/Navbar/display.ctp:11
+msgid "À propos"
+msgstr "About us"
+
+#: Template/Cell/Navbar/display.ctp:12
+msgid "Serveurs"
+msgstr "Servers"
+
+#: Template/Cell/Navbar/display.ctp:13;15
+msgid "Boutique"
+msgstr "Shop"
+
+#: Template/Cell/Navbar/display.ctp:19
+msgid "Récompenses"
+msgstr "Rewards"
+
+#: Template/Cell/Navbar/display.ctp:33
+msgid "Joueurs en ligne"
+msgstr "Players online"
+
+#: Template/Cell/Navbar/display.ctp:36
+msgid "Clique pour copier"
+msgstr "Click to copy"
+
+#: Template/Cell/Navbar/display.ctp:39
+msgid "Joueurs uniques"
+msgstr "Unique players"
+
+#: Template/Home/index.ctp:22
+msgid "Des serveurs sans lag."
+msgstr "Servers without lag."
+
+#: Template/Home/index.ctp:22
+msgid "Une expérience unique, des modpacks, une communauté."
+msgstr "A unique experience, modpacks, a community."
+
+#: Template/Home/index.ctp:22
+msgid "Venez nous rejoindre"
+msgstr "Come and join us"
+
+#: Template/Home/index.ctp:23
+msgid "Rendez-vous sur le forum"
+msgstr "Go to the forum"
+
+#: Template/Home/index.ctp:44
+msgid "Support Actif"
+msgstr "Active Support"
+
+#: Template/Home/index.ctp:45
+msgid ""
+"Les membres du staff sont présents pour vous, sur les serveurs, sur le forum "
+"mais aussi sur le <a href='https://mineaurion.com/discord'>discord</a>."
+msgstr ""
+"The staff members are present for you, on the servers, on the forum but also "
+"on the <a href='https://mineaurion.com/discord'>discord</a>."
+
+#: Template/Home/index.ctp:53
+msgid "Nouveaux Serveurs"
+msgstr "New Servers"
+
+#: Template/Home/index.ctp:54
+msgid ""
+"Nous essayons d'ouvrir des serveurs modés qui correspondent au mieux à vos "
+"attentes, en vous offrant la meilleure qualitée possible."
+msgstr ""
+"We try to open servers that best match your expectations, and offering you "
+"the best quality."
+
+#: Template/Home/index.ctp:62
+msgid "Transparence"
+msgstr "Transparency"
+
+#: Template/Home/index.ctp:63
+msgid ""
+"Vous retrouverez la liste des items bannis <a href='https://mineaurion.com/"
+"banneditems'>ici</a> qui offre une expérience plaisante et sans triche. Les "
+"règles sont disponibles sur le forum."
+msgstr ""
+"You will find the list of banned items <a href='https://mineaurion.com/"
+"banneditems'>here</a> that offers a pleasant experience and without cheats. "
+"The rules are available on the forum."
+
+#: Template/Home/index.ctp:74
+msgid "L'expérience la plus inoubliable jamais eu en multijoueur."
+msgstr "The most unforgettable experience never had in multiplayer."
+
+#: Template/Home/index.ctp:76
+msgid "Un minimum de lag et d'items bannis."
+msgstr "Minimum lag and banned items."
+
+#: Template/Home/index.ctp:77
+msgid ""
+"Des fonctionnalités comme bungee et beaucoup d'autres pour vous permettre "
+"une stabilité et une expérience inédite."
+msgstr ""
+"Features like bungee and many others to give you stability and a new "
+"experience."
+
+#: Template/Home/index.ctp:90
+msgid "Nos serveurs :"
+msgstr "Our Servers :"
+
+#: Template/Home/index.ctp:154
+msgid "Profitez d'une expérience accélérée."
+msgstr "Enjoy an accelerated experience."
+
+#: Template/Home/index.ctp:156
+msgid "Accédez à tous nos serveurs et nouveautés en avance."
+msgstr "Access to all our servers and news in advance."
+
+#: Template/Home/index.ctp:157
+msgid "Visitez le shop"
+msgstr "Visit the shop"
+
+#: Template/Layout/error.ctp:72
+msgid "Oups je crois que y a un soucis ..."
+msgstr "Oops I think there's a problem ..."

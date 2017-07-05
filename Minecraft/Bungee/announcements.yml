@@ -1,0 +1,46 @@
+un:
+  text: "&6Soutenez Mineaurion ! Visitez notre boutique sur     &bshop.mineaurion.com"
+  servers:
+  - global
+  permission: mineaurion.announce.fr
+deux:
+  text: '&6Le réglement complet du serveur de des bases est à lire et respecter pour le bien du serveur et pour éviter les mauvaises surprises : &amineaurion.com/regles'
+  servers:
+  - global
+  permission: mineaurion.announce.fr
+trois:
+  text: '&6Les regens de monde sont tout les dimanches à minuit (23H59)'
+  servers:
+  - global
+  permission: mineaurion.announce.fr
+quatre:
+  text: '&6Un problème, une question, un bug ? N''hésitez pas à poser votre question sur notre discord (#support) ou notre forum &bforum.mineaurion.com'
+  servers:
+  - global
+  permission: mineaurion.announce.fr
+cinq:
+  text: '&aVotez chaque jour pour Mineaurion et recevez des goodies. &aTapez &b/vote'
+  servers:
+  - global
+  permission: mineaurion.announce.fr
+six:
+  text: '&6Liste complète des items bannis de Mineaurion sur   &bhttps://mineaurion.com/banneditems'
+  servers:
+  - global
+  permission: mineaurion.announce.fr
+sept:
+  text: '&9Le joueur qui comptabilisera le plus de votes par mois gagnera une récompense, tapez /votetop pour voir les 10 premiers.'
+  servers:
+  - global
+  permission: mineaurion.announce.fr
+huit:
+  text: '&9Rendez-vous sur twitter.com/mineaurion ou sur notre discord https://mineaurion.com/discord pour profitez d''informations en temp réel'
+  servers:
+  - global
+  permission: mineaurion.announce.fr
+neuf:
+  text: '&9Si vous avez un grade, n''oubliez de faire la synchronisation pour l''obtenir sur discord, plus d''info ici :    https://mineaurion.com/sync'
+  servers:
+  - global
+  permission: mineaurion.announce.fr
+DO_NOT_TOUCH_VERSION: 1
