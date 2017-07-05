@@ -1,45 +1,45 @@
 un:
-  text: "&6Soutenez Mineaurion ! Visitez notre boutique sur     &bshop.mineaurion.com"
+  text: "&6Support Mineaurion ! Visit our shop on     &bshop.mineaurion.com"
   servers:
   - global
   permission: mineaurion.announce.fr
 deux:
-  text: '&6Le réglement complet du serveur de des bases est à lire et respecter pour le bien du serveur et pour éviter les mauvaises surprises : &amineaurion.com/regles'
+  text: '&6The full server regulation of the basics is to read and respect for the sake of the server and to avoid bad surprises : &amineaurion.com/regles'
   servers:
   - global
   permission: mineaurion.announce.fr
 trois:
-  text: '&6Les regens de monde sont tout les dimanches à minuit (23H59)'
+  text: '&6World's regenerations happen every every sunday at midnight (12PM)'
   servers:
   - global
   permission: mineaurion.announce.fr
 quatre:
-  text: '&6Un problème, une question, un bug ? N''hésitez pas à poser votre question sur notre discord (#support) ou notre forum &bforum.mineaurion.com'
+  text: '&6Having issues, a question to ask, a bug ? Do not hesitate to ask on our Discord (#support) or our forum &bforum.mineaurion.com'
   servers:
   - global
   permission: mineaurion.announce.fr
 cinq:
-  text: '&aVotez chaque jour pour Mineaurion et recevez des goodies. &aTapez &b/vote'
+  text: '&aVote every day for Mineaurion eand receive goodies. &aType &b/vote'
   servers:
   - global
   permission: mineaurion.announce.fr
 six:
-  text: '&6Liste complète des items bannis de Mineaurion sur   &bhttps://mineaurion.com/banneditems'
+  text: '&6Full list of banned items on   &bhttps://mineaurion.com/banneditems'
   servers:
   - global
   permission: mineaurion.announce.fr
 sept:
-  text: '&9Le joueur qui comptabilisera le plus de votes par mois gagnera une récompense, tapez /votetop pour voir les 10 premiers.'
+  text: '&9The player who will keep a record of votes per month will win a reward, type /votetop to show the ten firsts.'
   servers:
   - global
   permission: mineaurion.announce.fr
 huit:
-  text: '&9Rendez-vous sur twitter.com/mineaurion ou sur notre discord https://mineaurion.com/discord pour profitez d''informations en temp réel'
+  text: '&9Head up on twitter.com/mineaurion or on our discord https://mineaurion.com/discord to take advantage of 'real time informations'
   servers:
   - global
   permission: mineaurion.announce.fr
 neuf:
-  text: '&9Si vous avez un grade, n''oubliez de faire la synchronisation pour l''obtenir sur discord, plus d''info ici :    https://mineaurion.com/sync'
+  text: '&9In case you have a specific rank, do 'not forget to sync it on Discord', 'more to know here :    https://mineaurion.com/sync'
   servers:
   - global
   permission: mineaurion.announce.fr
