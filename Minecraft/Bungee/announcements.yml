@@ -24,7 +24,7 @@ trois:
   - global
   permission: mineaurion.announce.fr
 three:
-  text: '&6World's regenerations happen every every sunday at midnight (12PM)'
+  text: '&6World''s regenerations happen every every sunday at midnight (12PM)'
   servers:
   - global
   permission: mineaurion.announce.en
@@ -74,7 +74,7 @@ huit:
   - global
   permission: mineaurion.announce.fr
 eight:
-  text: '&9Head up on twitter.com/mineaurion or on our discord https://mineaurion.com/discord to take advantage of 'real time informations'
+  text: '&9Head up on twitter.com/mineaurion or on our discord https://mineaurion.com/discord to take advantage of real time informations'
   servers:
   - global
   permission: mineaurion.announce.en
@@ -84,7 +84,7 @@ neuf:
   - global
   permission: mineaurion.announce.fr
 nine:
-  text: '&9In case you have a specific rank, do 'not forget to sync it on Discord', 'more to know here :    https://mineaurion.com/sync'
+  text: '&9In case you have a specific rank, do not forget to sync it on Discord, more to know here :    https://mineaurion.com/sync'
   servers:
   - global
   permission: mineaurion.announce.en
