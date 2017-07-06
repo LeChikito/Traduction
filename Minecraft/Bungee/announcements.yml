@@ -19,7 +19,7 @@ two:
   - global
   permission: mineaurion.announce.en
 trois:
-  text: '&6Les regens de monde sont tout les dimanches à minuit (23H59)'
+  text: '&6Les regens de monde sont tous les dimanches à minuit (23H59)'
   servers:
   - global
   permission: mineaurion.announce.fr
