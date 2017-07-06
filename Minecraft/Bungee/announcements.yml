@@ -24,7 +24,7 @@ trois:
   - global
   permission: mineaurion.announce.fr
 three:
-  text: '&6World''s regenerations happen every every sunday at midnight (12PM)'
+  text: '&6World''s regenerations happen every sunday at midnight (12PM)'
   servers:
   - global
   permission: mineaurion.announce.en
