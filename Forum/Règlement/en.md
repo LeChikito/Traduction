@@ -127,3 +127,26 @@ The shop of the server makes it possible to obtain differents ranks, cosmetics o
 No resale originating from the Mineaurion's shop is autorized. It's possible to make a gift for your friends, or to make troc but no resale will be tolerated.
 
 ****
+
+****
+📒 - Important links
+--
+
+** Here is a list of links that might also interest you :**
+
+» List of items banned in 1.7 :
+https://mineaurion.com/banneditems
+
+»To post a complaint :
+https://forum.mineaurion.com/category/18/sanctions-et-plaintes
+
+»To make a suggestion for improving the server :
+https://forum.mineaurion.com/category/4/supports-et-suggestions
+
+****
+►  **%(#BE0000)[Bypassing the official rules with imply (etc.) is strictly forbidden.]**
+
+****
+
+
+**Oversized systems are all systems designed to create lag or slow down the server (Server's Rules paragraph), generate more resource which you need, etc...*
