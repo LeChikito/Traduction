@@ -1,3 +1,15 @@
+>-> http://imgur.com/Qj7MGcZ.png <-
+
+********
+
+📘 - General Regulation
+--
+*All the points listed below are considered read and approved by all Mineaurion's users. When you are connected on one of the server platforms, any violation of the regulation will be severely reprimanded. If the Administration of Mineaurion wants to change this regulation for any reason, it has the full right.*
+
+**A sanction is intended to ensure compliance with regulation
+
+
+
 👔 - Team of Moderation/Administration
 --
 **To impersonate an member of the team of modedation or all other member of team of Mineaurion is prohibit.** Steal an identity by Nickname, avatar, signature or behave like an member of staff It is strongly forbidden and can be severely punished.
