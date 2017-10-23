@@ -4,11 +4,41 @@
 
 📘 - General Regulation
 --
-*All the points listed below are considered read and approved by all Mineaurion's users. When you are connected on one of the server platforms, any violation of the regulation will be severely reprimanded. If the Administration of Mineaurion wants to change this regulation for any reason, it has the full right.*
+*All of the items listed below are considered to be read and accepted by all users of the Mineaurion platforms. When connecting to one one of the server's platforms, any violation of the rules will be severely reprimanded. Should the Mineaurion Administration wish to amend this by-law for any reason, it has the full right to do so.*
 
-**A sanction is intended to ensure compliance with regulation
+**A sanction is intended to enforce the rule based on the errors and history of the offending player** Any sanction applied may be explained and justified by a member of the moderation if the guilty player so wishes, because it is implemented impartially and respectfully towards the player.
 
+**All users of our platforms are equal, regardless of their rank**They have the same rights under these Regulations and that is why you are asked to respect each other. Respect for others is fundamental to the enjoyment of our services.
 
+If you encounter problems with the moderation or any of its constituent members, please refer to the persons in charge, if it is not possible to solve it otherwise. The server team is made up of volunteers and they have a lot to do, please take this into account.
+
+****
+
+📣 - Banned advertising
+--
+Advertising for your personal interest, such as a Youtube Channel, Dailymotion, Twitch or any server **is prohibited**. Advertising by private message or on the server chat will result in the player being muted by a member of the staff, unless he/she has Youtubeur/Streameur rank. It is therefore the same on the forum no advertising is allowed.
+
+If you would like to promote something via our media, please send a request to an admin through the forum.
+
+****
+
+💬 - Free communication, without abuse
+--
+There are many ways for players to communicate with each other in order to offer them an optimal gaming experience on our servers. Messages must be written in an understandable way while respecting the language of the platform (avoid sms language as much as possible).
+
+It goes without saying that it is strictly forbidden to write messages of a sexual, discriminatory, violent, xenophobic, hateful, hateful, rude, offensive, racist or homophobic nature. The same is true for pseudo forum/minecraft/discord and skins/image used or posted on all our platforms. We will ask you to refrain from making public any political debate or conflict, otherwise you will be punished. And therefore, it seems essential to carry out a reminder of respect for others here.
+
+**Spam, flooding and abusive capital letters are prohibited.**
+All types of spam are blocked automatically but it is still forbidden to post a series of meaningless and useless messages, which only has the effect of annoying other players. Messages that contain too many uppercase letters that even make the chat unreadable are considered spam
+
+**Youtuber/Streameurs/Partners and team members must be respected in the same way as others.**
+You will surely meet more than one of them on the Mineaurion platforms, apart from their popularity on Youtube or via streams, these players also have the right to play comfortably on our servers. Giving them a normal gaming experience will satisfy you just as much as they do because they can deliver quality content in their videos or streams.
+
+Likewise for the staff members, they do their best to allow you to have a good time on the server and enjoy relaxing while playing (these players are volunteers, not professionals either).
+
+Each member is solely responsible for the content they publish, Mineaurion cannot be held responsible for it. Moderators are recruited to monitor activity on server networks.
+
+****
 
 👔 - Team of Moderation/Administration
 --
