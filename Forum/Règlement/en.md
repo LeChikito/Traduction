@@ -87,7 +87,7 @@ You must have **the same nickname in game, on Discord and the forum**. So that w
 - to spam uselessly mentions or talks. Thats is what #flood channel is made for.
 - to switch between channels in an abusive way.
 - to keep saying nonsense in public channels.
-You must respect the use of music bots, few are available.
+- You must respect the use of music bots, few are available.
 
 → Spam staff members, whether it is via mentions or through PM is not allowed. They are not bots but humans like you. Let them time to answer, then can busy at the time.
   If noone ever reply, wait a bit before sending a second request. You can also send to another staff member.
@@ -100,12 +100,12 @@ You must respect the use of music bots, few are available.
 
 **It is strictly %(#BE0000)[forbidden] ...**
 
-- to grief, borrow without autorisation or steal goods that are not yours.
+- to grief, to borrow without authorization or to steal any property not belonging to you, even outside of the claims.
 - to use banned items in any way.
-- to exploit glitches either linked to plugins, mods or server currency in-game.
+- to exploit glitches related to plugins, server mods or in-game currency.
 - to do PVP except when both (or more) of the players agree. It includes trap systems and machines that allow it.
 - to build you base out of the overworld.
-- to step into a player's non-authorized or privatised zone.
+- to enter into a player's unauthorized or privatized area.
 - Only passive anchors or plugins are allowed to load your base.
 - All client modifications which the goal is to gain a benefit compared to any other member.
 - Create an economic system or even a parallel shop on our servers.
@@ -125,6 +125,8 @@ You can ask the staff team to check whether or not your base is producing lags. 
 
 Abusive donations toward a player in any way (energy or items), or anything that allows an easier experience is against our way of playing. This is why it also is forbidden.
 
+Anything considered harmful may be subject to a sanction. Any behaviour may be punished, if the moderation deems it necessary.
+
 ****
 
 ⚙️ - Specific rules in Minecraft
@@ -135,14 +137,14 @@ He is of fact that our servers are publics, he must therefore be **share** the s
 
 - only once quarry per person in the world mining (Authorized only in the mining world).
 - The buildcraft pipes are to be used in a limited quantity (use for apiary, grinder)
-- No falling spawner has tolerate(falling entity). **three spawners active at the same time per base ** with an extinction system when the player is not connected.
+- No falling spawner has tolerate(falling entity). **three spawners active at the same time per base** with an extinction system when the player is not connected.
 - The moving of mobs via fan,conveyer belt or any other system of the same type.
 - The micro-blocks are to limit or avoid in your base.
+- All anti-afk systems of any shape is prohibited.
 
 The spawners or all type of machine/system creating entities should not allow their accumulation.
 
-
-many tutorials and optimization are at your disposition [Here](https://forum.mineaurion.com/category/35/tutoriels). Some was use as a reference; for example [The automation of spawners](https://forum.mineaurion.com/topic/397/tutoriel-pour-optimisation-des-machines).
+Many tutorials and optimization are at your disposition [Here](https://forum.mineaurion.com/category/35/tutoriels). Some was use as a reference; for example [The automation of spawners](https://forum.mineaurion.com/topic/397/tutoriel-pour-optimisation-des-machines).
 
 After many problems in the server bound to conflicts between players of the same base, we have decided the next thing :
 
